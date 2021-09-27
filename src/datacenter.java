@@ -15,7 +15,7 @@ import org.cloudbus.cloudsim.provisioners.RamProvisionerSimple;
 
 /**
  * DatacenterCreator Creates Datacenter as per the requirements from the user.
- * @author Linda J
+
  *
  */
 public class DataCenterCreator  {
